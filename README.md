@@ -8,8 +8,7 @@ Hello, my name is Matéo I have
 
 ## 🏡 Career Path
 
-
-[![My Skills](https://skills.thijs.gg/icons?i=php,go,html,css,js&theme=light)]()
+TODO
 
 <!--
 **MatroxMC/MatroxMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![My Skills](https://skills.thijs.gg/icons?i=php,go,html,css,js&theme=light)]()
+
 -->
