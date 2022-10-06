@@ -1,28 +1,14 @@
 ## ✨ Who am I ?
-Hello, my name is Matéo I have 
+Hello!! My name is Matéo and I am 19 years old.
 
 ## 🚂 I Worked On
-> [Ectary Network](https://twitter.com/ectarymc) - Ectary, The Bedrock PvP Experience. ⚔️
+> [Ectary Network](https://twitter.com/ectarymc) - "Ectary, The Bedrock PvP Experience. ⚔️"
 
-> [Coffee Network](https://github.com/CoffeeProjectMCBE) - ..
+> [Coffee Project](https://github.com/CoffeeProjectMCBE) - "A group of large minecraft be server founder"
 
 ## 🏡 Career Path
 
-TODO
-
-<!--
-**MatroxMC/MatroxMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![My Skills](https://skills.thijs.gg/icons?i=php,go,html,css,js&theme=light)]()
-
--->
+| Year |                     |
+|:-----|:--------------------|
+| 2021-2023   | BTS SIO - SISR |
+| 2018-2021   | BAC PRO - RISC |
