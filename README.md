@@ -4,7 +4,7 @@ I'm a **20-year-old** student currently studying to become a **networking system
 
 ## 🚀 Projects and Work
 
-* 🌐 [Portfolio](https://mateo08.tk) - "My personal portfolio showcasing my work and skills."  
+* 🌐 [Portfolio](https://www.mateo08.tk) - "My personal portfolio showcasing my work and skills."  
 * 🌐 [LifeHeberg](https://www.lifeheberg.com/) - "LifeHeberg - Hébergeur de VPS et serveur de jeux Minecraft et Garry's Mod."
 * ⚔️ [Ectary Network](https://twitter.com/ectarymc) - "Ectary, The Bedrock PvP Experience."
 * 🎮 [Coffee Project](https://github.com/CoffeeProjectMCBE) - "A group of large Minecraft BE server founders."
