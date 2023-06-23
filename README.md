@@ -14,9 +14,6 @@ Here are some stats about my programming activity on [WakaTime](https://wakatime
 ![Wakatime stats](https://wakatime.com/share/@edc0f08e-3aca-4441-8b23-94a859fe119a/da67ec60-ee7b-4ec1-96ca-541a4ad98b0e.svg)
 
 ## 🎖️ Badges
-
-Here are some badges to showcase my skills:
-
 [![Networking Badge](https://img.shields.io/badge/-Networking-1abc9c?style=flat-square&logo=cisco)](#)
 [![System Admin Badge](https://img.shields.io/badge/-System%20Administration-1abc9c?style=flat-square&logo=Windows)](#)
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-157eff?style=flat-square&logo=mikrotik&logoColor=white)
