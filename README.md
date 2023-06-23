@@ -6,20 +6,12 @@ I'm a **20-year-old** student currently studying to become a **networking system
 
 * 🌐 [Portfolio](https://www.mateo08.tk) - "My personal portfolio showcasing my work and skills."  
 * 🌐 [LifeHeberg](https://www.lifeheberg.com/) - "LifeHeberg - Hébergeur de VPS et serveur de jeux Minecraft et Garry's Mod."
-* ⚔️ [Ectary Network](https://twitter.com/ectarymc) - "Ectary, The Bedrock PvP Experience."
-* 🎮 [Coffee Project](https://github.com/CoffeeProjectMCBE) - "A group of large Minecraft BE server founders."
 
 ## 📊 Stats
 
 Here are some stats about my programming activity on [WakaTime](https://wakatime.com/):
 
 ![Wakatime stats](https://wakatime.com/share/@edc0f08e-3aca-4441-8b23-94a859fe119a/da67ec60-ee7b-4ec1-96ca-541a4ad98b0e.svg)
-
-## 🔍 Skills
-
-* 🖥️ Networking
-* 🎮 Minecraft
-* 💻 System administration
 
 ## 🎖️ Badges
 
