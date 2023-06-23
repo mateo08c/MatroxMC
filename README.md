@@ -23,7 +23,6 @@ Here are some badges to showcase my skills:
 ![Golang](https://img.shields.io/badge/-Golang-1e72b3?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
-[![Minecraft Badge](https://img.shields.io/badge/-Minecraft-1abc9c?style=flat-square&logo=Minecraft)](#)
 
 
 
