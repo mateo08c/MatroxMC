@@ -2,12 +2,14 @@
 
 I'm a **20-year-old** student currently studying to become a **networking system administrator**. In my free time, I like to work on various projects.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/2048px-Go_gopher_favicon.svg.png" height="100px">
+
 ## 🚀 Projects and Work
 
-* 🌐 [Portfolio](https://www.mateo08.tk) - "My personal portfolio showcasing my work and skills."  
+* 🌐 [Portfolio](https://www.mateo08.tk) - "Check out my personal portfolio showcasing my projects and skills."
 * 🌐 [LifeHeberg](https://www.lifeheberg.com/) - "LifeHeberg - Hébergeur de VPS et serveur de jeux Minecraft et Garry's Mod."
 
-## 📊 Stats
+## 📊 Coding Stats
 
 Here are some stats about my programming activity on [WakaTime](https://wakatime.com/):
 
