@@ -6,7 +6,7 @@ I'm a **20-year-old** student currently studying to become a **networking system
 
 ## 🚀 Projects and Work
 
-* 🌐 [Portfolio](https://www.mateo08.tk) - "Check out my personal portfolio showcasing my projects and skills."
+* 🌐 [Portfolio](https://www.mateo08.fr) - "Check out my personal portfolio showcasing my projects and skills."
 * 🌐 [LifeHeberg](https://www.lifeheberg.com/) - "LifeHeberg - Hébergeur de VPS et serveur de jeux Minecraft et Garry's Mod."
 
 ## 📊 Coding Stats
