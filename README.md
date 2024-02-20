@@ -4,8 +4,6 @@ I'm a **20-year-old** student currently studying to become a **networking system
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/2048px-Go_gopher_favicon.svg.png" height="100px">
 
-* 🌐 [My blog](https://www.mateo08.fr)
-
 ## 🚀 Projects and Work
 * 🌐 [LifeHeberg](https://www.lifeheberg.com/) - "LifeHeberg - Hébergeur de VPS et serveur de jeux Minecraft et Garry's Mod."
 
