@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Matéo!
 
-I'm a **20-year-old** student currently studying to become a **networking system administrator**. In my free time, I like to work on various projects.
+I'm a **21-year-old** student currently studying to become a **networking system administrator**. In my free time, I like to work on various projects.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_gopher_favicon.svg/2048px-Go_gopher_favicon.svg.png" height="100px">
 
